@@ -18,7 +18,7 @@ const info = {
 }
 
 const config = {
-    executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    executablePath: "/Applications/Google Chrome.app/",
     auto_close: true,
     musicRequestPath: `https://taira-komori.jpn.org/sound_os/daily01/knocking_an_iron_door4.mp3`,
     default_parameter: {

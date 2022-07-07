@@ -1,5 +1,7 @@
 # jiulong-clerk
 
+### [⬇️Download ZIP (github.com)](https://github.com/MoShian90s/jiulong-clerk/archive/refs/heads/main.zip) 
+
 ## 😇一脚蹬懒人包步骤教程
 
 * 安装[node.js (直接下载pkg) ]( [macOS Installer  node-v16.15.1.pkg (nodejs.org)](https://nodejs.org/dist/v16.15.1/node-v16.15.1.pkg) )
